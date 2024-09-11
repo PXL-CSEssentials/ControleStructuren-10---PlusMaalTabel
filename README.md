@@ -3,7 +3,7 @@
 Deze toepassing dient om op scherm een "tabel" weer te geven met de
 optelling of de vermenigvuldiging van 2 getallen.
 
-Voorzie een tekstvak *maximulValueTextBox* voor invoer van een getal
+Voorzie een tekstvak *maximumValueTextBox* voor invoer van een getal
 tussen 1 en 20 (controleren!). De standaardwaarde is 10.
 
 De gebruiker geeft een maximum waarde in. Bij het drukken van de
